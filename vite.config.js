@@ -1,5 +1,8 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/bkdawjk/'
+  base: '/bkdawjk/',
+  build: {
+    outDir: 'docs'
+  }
 });
