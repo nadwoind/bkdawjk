@@ -1,0 +1,16 @@
+{
+  "name": "bkdawjk",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.16",
+    "vite": "^4.0.0"
+  }
+}
